@@ -1,2 +1,3 @@
 # CosmoLike_Forecasts
-CosmoLike routines for covarianes and cosmology forecasts in harmonic space
+
+Please check back soon for CosmoLike routines, we're still making it a bit more user friendly.
